@@ -9,6 +9,7 @@ export LIBS_DIR=${SOURCES_DIR}/libs
 export FLEX_DIR=${BIN_DIR}/apache-flex-sdk-4
 
 echo "Simple setup.sh for configuring AS3 player develop environment \n"
+echo "You must to have ant and ant-contrib installed \n"
 cd $HOME
 echo "creating folders structure \n"
 mkdir -p work/{bin,sources/libs}

@@ -1,6 +1,11 @@
 #As3 Dev Env for dummies
 __Simple setup.sh for configuring AS3 and player develop environment__
 
+#Dependencies
+To build swf, You must to have *ant* and *ant-contrib* installed
+If you not have run this command before
+`sudo apt-get install -y ant ant-contrib`
+
 ##The automatic installer
 
 ### via curl
