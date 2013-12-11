@@ -58,4 +58,5 @@ ant
 cd build/
 echo " \n \ntheir freshly baked cakes \n"
 ls -l *.swf
+echo " \n at $SOURCES_DIR/player/build/ \n"
 echo
