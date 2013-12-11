@@ -7,7 +7,7 @@ setup
 `curl -L https://raw.github.com/daviguides/setup/master/player_as3_env/setup.sh | zsh`
 
 ### via wget
-`wget --no-check-certificate https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -- | zsh`
+`wget --no-check-certificate https://raw.github.com/daviguides/setup/master/player_as3_env/setup.sh -O -- | zsh`
 
 ##The manual way
 
@@ -21,4 +21,4 @@ setup
 
 3. Run setup.sh
 
-`setup.sh | zsh`
+setup.sh | zsh`
