@@ -1,4 +1,5 @@
-#Simple setup.sh for configuring AS3 and player develop environment
+#As3 Dev Env for dummies
+__Simple setup.sh for configuring AS3 and player develop environment__
 
 ##The automatic installer
 
