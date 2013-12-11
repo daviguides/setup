@@ -1,5 +1,4 @@
-setup
-=====
+#Simple setup.sh for configuring AS3 and player develop environment
 
 ##The automatic installer
 
@@ -21,4 +20,4 @@ setup
 
 3. Run setup.sh
 
-setup.sh | zsh`
+`setup.sh | zsh`
