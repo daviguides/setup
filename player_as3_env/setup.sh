@@ -1,6 +1,6 @@
 #!/bin/bash
 # Simple setup.sh for configuring AS3 player develop environment
-sudo apt-get install -y ant ant-contrib
+#sudo apt-get install -y ant ant-contrib
 
 #create structure
 cd ~/
